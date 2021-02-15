@@ -2,7 +2,7 @@ This is a responsive Covid-19 Statistics project.
 
 The free API that I used might be "Temporarily Unavailable". If You can't reach the statistics of a country that you want, try again in a few minutes.
 
-I used Bootstrap framework on CSS.
+I used Bootstrap framework for this project.
 
 The reason of the limited number of countries that are shown is because of the free API that use. For some countries, data is per city, for some is per state etc. Since the Data was not standardized, I prefered using the countries that their Data is standardized.
 

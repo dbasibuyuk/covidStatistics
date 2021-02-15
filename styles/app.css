@@ -1,0 +1,56 @@
+img
+{
+    width: 30px;    
+    height: 30px;
+}
+
+h1
+{
+    text-transform: uppercase;
+}
+
+
+.list-group button:hover
+{
+    background-color: #2c0511;
+    color : white;
+}
+
+.list-group button:focus
+{
+    background-color: #2c0511;
+    color : white;
+}
+
+
+
+
+#navclass
+{  
+    background-color: #2c0511;
+    color: white;
+}
+
+#groupButtons
+{
+    position : relative;
+    margin-top : 450px; 
+}
+
+#buttonCentered
+{
+    display : flex;
+    justify-content : center;
+}
+
+.btn-group button
+{
+    background-color: #2c0511;
+    border-color: #2c0511;
+}
+
+
+.btn-outline-dark.active
+{
+    background-color: #2c0511;
+}

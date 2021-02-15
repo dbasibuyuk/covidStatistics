@@ -18,6 +18,8 @@ Some screenshots :
 
 ![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/onload.png?raw=true)
 
+![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/firstClickonCountry.png?raw=true)
+
 ![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/bigScreen.png?raw=true)
 
 ![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/smallScreen.png?raw=true)

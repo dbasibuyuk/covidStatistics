@@ -16,12 +16,12 @@ Thank you whom supply free content for developers. Hopefully, this page is usefu
 
 Some screenshots :
 
-
+![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/onload.png?raw=true)
 
 ![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/bigScreen.png?raw=true)
 
 ![alt text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/smallScreen.png?raw=true)
 
-![alt_text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/mobileAndNavBar.png?raw=true)
-
 ![alt_text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/about.png?raw=true)
+
+![alt_text](https://github.com/dbasibuyuk/covidStatistics/blob/main/screenshots/mobileAndNavBar.png?raw=true)
